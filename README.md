@@ -1,2 +1,5 @@
 # chiqingChen-2021
-periodic performance report
+
+## 进度表 ##
+<p>【进行】1.20210510-查阅文献以及学习碳酸钙滴定方法.
+
